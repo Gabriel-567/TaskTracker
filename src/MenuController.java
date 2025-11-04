@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+import model.*;
 public class MenuController {
     private TaskManager taskManager;
     private Scanner scanner;
