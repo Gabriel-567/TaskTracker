@@ -1,6 +1,7 @@
+package com.tasktracker.model;
+
 import java.util.Scanner;
 import java.time.LocalDateTime;
-import model.*;
 
 public class MenuController {
     private TaskManager taskManager;

@@ -1,4 +1,4 @@
-package model;
+package com.tasktracker.model;
 
 /**
  * Represents the current state of a Task.

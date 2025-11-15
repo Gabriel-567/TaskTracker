@@ -1,4 +1,4 @@
-package model;
+package com.tasktracker.model;
 
 public enum Priority {
     LOW("Low Priority"),

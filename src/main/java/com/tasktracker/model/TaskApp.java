@@ -1,4 +1,4 @@
-import model.*;
+package com.tasktracker.model;
 public class TaskApp {
     public static void main(String[] args) {
     TaskManager  taskManager = new TaskManager();
